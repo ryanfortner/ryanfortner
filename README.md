@@ -1,5 +1,3 @@
-# **https://chunkymilk0309.wordpress.com**
-
 ### 👋 hello
 my name's chunkymilk0309. i enjoy programming with the Raspberry Pi and other singleboard computers.
 
