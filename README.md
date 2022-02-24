@@ -10,7 +10,7 @@ You can email me at [pinetmedia@gmail.com](pinetmedia@gmail.com) (all mail sent 
 
 #### Want to support my work?
 
-I never require donations for any of the work I do, but if you feel the need to donate, my Bitcoin address is `1EoJ8fVipzm9yb5Czg7gRUFYPxCG5oRsY8` (or, see my Ko-fi page).
+I never require donations for any of the work I do, but if you feel the need to donate, my Bitcoin address is `bc1qtssgdrjzfvgrrjedhg2jx360xn2jz5ygwgtumy` (or, see my Ko-fi page).
 
 [GitHub Stats](https://ryanfortner.github.io/github-stats/)
 
