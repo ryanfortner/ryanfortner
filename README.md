@@ -6,13 +6,7 @@ Check out my programming blog: [https://ryanfortner.github.io/blog](https://ryan
 
 #### How to reach me?
 
-You can email me at [pinetmedia@gmail.com](pinetmedia@gmail.com) (all mail sent there will be forwarded to a different address), or simply contact me [here](https://github.com/ryanfortner/ryanfortner/issues/new).
-
-#### Want to support my work?
-
-You can donate Bitcoin, my address is `bc1qtssgdrjzfvgrrjedhg2jx360xn2jz5ygwgtumy`. I also have wallets for other coins, feel free to [open an issue](https://github.com/ryanfortner/ryanfortner/issues/new) if interested.
-
-Any donations given are greatly appreciated. My goal is to raise enough funds to buy a secondary computer monitor (around $100).
+You can email me at [pinetmedia@gmail.com](pinetmedia@gmail.com) or simply open an issue [here](https://github.com/ryanfortner/ryanfortner/issues/new).
 
 [GitHub Stats](https://ryanfortner.github.io/github-stats/)
 
