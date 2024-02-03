@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a Linux programmer interested in ARM computing and learning C. Read about me [here](https://ryanfortner.github.io/about-me/)!
+I'm a Linux programmer interested in low-level computing, FRC robotics, 3D printing, and compiler design. Read about me [here](https://ryanfortner.github.io/about-me/)!
 
 Check out my programming blog: [https://ryanfortner.github.io/blog](https://ryanfortner.github.io/blog), or some of [my projects](https://ryanfortner.github.io/projects/).
 
