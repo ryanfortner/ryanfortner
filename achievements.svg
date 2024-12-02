@@ -102,7 +102,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="189.92666666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="190.03 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -124,10 +124,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">2838</div>
+                                        <div class="value">2839</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 2838 times</div>
+                                <div class="text">Repositories have been deployed 2839 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -165,7 +165,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 70.4k out of 150m users</span>
+                                    <span class="gh">ranked 70.5k out of 150m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">175</div>
                                     </div>
@@ -254,7 +254,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -316,7 +316,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 25k out of 207m repositories</span>
+                                    <span class="gh">ranked 25.1k out of 212m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2045</div>
                                     </div>
@@ -498,7 +498,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.25m out of 207m repositories</span>
+                                    <span class="gh">ranked 1.25m out of 212m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
